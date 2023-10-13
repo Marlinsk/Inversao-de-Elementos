@@ -19,8 +19,3 @@ A recursividade é amplamente utilizada em algoritmos de busca, como a busca em 
 A recursividade pode tornar o código mais legível e elegante, especialmente para problemas que têm uma estrutura recursiva natural. No entanto, a recursividade pode ser menos eficiente em termos de uso de memória, e um cuidado especial deve ser tomado para evitar estouro de pilha em casos de recursões profundas.
 
 **Observação:** A recursividade é uma abordagem poderosa para resolver problemas complexos, mas deve ser usada com moderação e com atenção aos casos base e ao uso de recursos. Quando aplicada corretamente, a recursividade pode simplificar a resolução de problemas e contribuir para um código mais claro e elegante. É uma ferramenta valiosa no arsenal de qualquer programador.
-
-## Passo a passo
-**Aviso:** É necessário ter conhecimento e noções de programação em java.
-
-### Clonando o projeto
